@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+Pillow
+librosa
+soundfile
+transformers
+datasets
+pydub
+flash_attn

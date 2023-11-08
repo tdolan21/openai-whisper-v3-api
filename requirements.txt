@@ -7,3 +7,5 @@ transformers
 datasets
 pydub
 flash_attn
+yt-dlp
+

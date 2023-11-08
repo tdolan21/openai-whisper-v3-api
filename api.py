@@ -1,12 +1,10 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException, BackgroundTasks
 from fastapi.responses import JSONResponse, FileResponse
-import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 from pydub import AudioSegment
 from typing import List
 import yt_dlp
-import asyncio
-import uuid
+import torch
 import io
 import os
 

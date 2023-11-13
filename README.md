@@ -2,6 +2,9 @@
 
 Welcome to the OpenAI Whisper-v3 API! This API leverages the power of OpenAI's Whisper model to transcribe audio into text. Before diving in, ensure that your preferred PyTorch environment is set up—Conda is recommended.
 
+Full guide available [here](https://tims-tutorials.vercel.app/blog/whisper-v3)
+Live demo on Huggingface [Spaces](https://huggingface.co/spaces/macadeliccc/whisper-large-v3-yt-mp3-batch)
+
 ![Whisper-v3](assets/whisper-v3-thumbnail.png)
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)

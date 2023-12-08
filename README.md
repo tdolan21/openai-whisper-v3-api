@@ -4,6 +4,7 @@ Welcome to the OpenAI Whisper-v3 API! This API leverages the power of OpenAI's W
 
 - Full guide available [here](https://tims-tutorials.vercel.app/blog/whisper-v3)
 - Live demo on Huggingface [Spaces](https://huggingface.co/spaces/macadeliccc/whisper-large-v3-yt-mp3-batch)
+- Subtitle CLI available [here](https://github.com/tdolan21/whisper_subtitles)
 
 ![Whisper-v3](assets/whisper-v3-thumbnail.png)
 
